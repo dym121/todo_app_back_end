@@ -11,7 +11,7 @@ li:hover{
   border-radius: 3px;
 }
 span{
-  font-size: 14px;
+  font-size: 18px;
   padding: 5px 10px 5px 10px;
 }
 .completed-todo{
@@ -23,6 +23,6 @@ span{
 }
 #add-new-todo-button{
   display: block;
-  background-color: #03A9F4;
+  background-color: #A6791E;
   margin-top: 10px;
 }
