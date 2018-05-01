@@ -6,8 +6,13 @@ li{
   margin-bottom: 10px;
   padding: 5px;
 }
+
+a{ 
+  color: #0A080D;
+}
+
 li:hover{
-  background-color: #E1F5FE;
+  background-color: #F4F2F2;
   border-radius: 3px;
 }
 span{
@@ -20,9 +25,17 @@ span{
 #new-todo-block{
   width: 60%;
   margin: 20px auto 0px auto;
+  text-align: center;
 }
 #add-new-todo-button{
   display: block;
   background-color: #A6791E;
   margin-top: 10px;
+  text-align: center;
 }
+
+body{
+background-color: #F4F2F2;
+}
+
+@media screen 
